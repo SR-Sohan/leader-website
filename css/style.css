@@ -1,0 +1,60 @@
+body{
+    background-color: #F3F1FF;
+}
+.blog-part,
+.course-part{
+    border-radius: 10px;
+}
+header{
+    background-color: #562EFF;
+}
+.navbar img{
+    width: 50px;
+}
+.player-top img{
+    width: 56px;
+}
+.single-player p{
+    margin: 10px;
+}
+.player-heading{
+    padding: 20px;
+    color: #562EFF;
+}
+.player-bottom img{
+    width: 177px;
+}
+
+.blog-content p{
+    color:#9F9F9F;
+}
+.bloger-name{
+    color:#562EFF
+}
+.card{
+    border: none;
+    background-color: white;
+    box-shadow: 5px 5px 5px gray;
+}
+.rating-star span{
+    color: #AEAEAE;
+}
+.rating-star .checked{
+    color: orange;
+}
+.time-count{
+    background: #FFE4E8;
+    padding: 2px 7px; 
+    border-radius: 35px;
+    transition: .7s;
+
+}
+.time-count:hover{
+    background: #FEE5DF;
+}
+.time-count img{
+    width: 20px;
+}
+.card-footer{
+    border-top: none;
+}
