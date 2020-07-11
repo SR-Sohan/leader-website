@@ -5,6 +5,9 @@ body{
 .course-part{
     border-radius: 10px;
 }
+.navbar-light .navbar-toggler{
+    background-color: white;
+}
 header{
     background-color: #562EFF;
 }
@@ -33,7 +36,6 @@ header{
 }
 .card{
     border: none;
-    background-color: white;
     box-shadow: 5px 5px 5px gray;
 }
 .rating-star span{
