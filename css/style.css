@@ -47,9 +47,8 @@ header{
 .time-count{
     background: #FFE4E8;
     padding: 2px 7px; 
-    border-radius: 35px;
+    border-radius: 15px;
     transition: .7s;
-
 }
 .time-count:hover{
     background: #FEE5DF;
