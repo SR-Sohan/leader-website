@@ -17,6 +17,10 @@ header{
 .player-top img{
     width: 56px;
 }
+.single-player{
+    display: flex;
+    align-items: center;
+}
 .single-player p{
     margin: 10px;
 }
@@ -58,4 +62,15 @@ header{
 }
 .card-footer{
     border-top: none;
+}
+@media (max-width:576px){
+ 
+   .single-player {
+       display: block;
+       text-align: center;
+   }
+   .player-heading{
+       text-align: center;
+   }
+
 }
