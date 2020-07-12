@@ -64,7 +64,9 @@ header{
     border-top: none;
 }
 @media (max-width:576px){
- 
+    .single-blog img{
+        height: 115px;
+    }
    .single-player {
        display: block;
        text-align: center;
